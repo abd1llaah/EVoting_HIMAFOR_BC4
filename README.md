@@ -2,13 +2,13 @@
 
 Aplikasi pemungutan suara digital berbasis *blockchain* yang dikembangkan menggunakan **Solidity (Hardhat)** sebagai *Smart Contract* dan **Python (Streamlit & Web3.py)** sebagai antarmuka pengguna (*User Interface*). Sistem ini dirancang untuk menjamin transparansi, keamanan data, serta mencegah kecurangan pemilihan ganda (*double voting*) karena setiap suara dicatat secara permanen di jaringan *blockchain*.
 
-🔗 **Link Repositori GitHub:** <https://github.com/cndyamee/evoting-dapp-blockchain>
+🔗 **Link Repositori GitHub:** <https://github.com/abd1llaah/EVoting_HIMAFOR_BC4>
 
 ## 👥 Anggota Kelompok
 
-* **Cindy Amelia** (NIM: *Isi NIM*)
-* **Nama Anggota 2** (NIM: *Isi NIM*)
-* **Nama Anggota 3** (NIM: *Isi NIM*)
+* **Cindy Amelia** (NIM: 2530801071)
+* **Nur Abdillah** (NIM: 2530801063)
+* **Ahmad Raffi Adi Sumartono** (NIM: 2530801033)
 
 ## 🛠️ Teknologi & Struktur Proyek
 
